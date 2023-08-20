@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/praline-react/static/css/main.fc1fa8dd.css",
-    "main.js": "/praline-react/static/js/main.54438039.js",
+    "main.css": "/praline-react/static/css/main.aeaeffd6.css",
+    "main.js": "/praline-react/static/js/main.c2597572.js",
     "static/js/787.901300c5.chunk.js": "/praline-react/static/js/787.901300c5.chunk.js",
+    "static/media/napoleon_tort-xxl-2.jpg": "/praline-react/static/media/napoleon_tort-xxl-2.9de50fdf60b95f70a80a.jpg",
     "static/media/Inter-Bold.woff": "/praline-react/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
     "static/media/Inter-SemiBold.woff": "/praline-react/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
     "static/media/Inter-Medium.woff": "/praline-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
@@ -12,12 +13,12 @@
     "static/media/Inter-SemiBold.woff2": "/praline-react/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
     "static/media/Inter-Regular.woff2": "/praline-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "index.html": "/praline-react/index.html",
-    "main.fc1fa8dd.css.map": "/praline-react/static/css/main.fc1fa8dd.css.map",
-    "main.54438039.js.map": "/praline-react/static/js/main.54438039.js.map",
+    "main.aeaeffd6.css.map": "/praline-react/static/css/main.aeaeffd6.css.map",
+    "main.c2597572.js.map": "/praline-react/static/js/main.c2597572.js.map",
     "787.901300c5.chunk.js.map": "/praline-react/static/js/787.901300c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc1fa8dd.css",
-    "static/js/main.54438039.js"
+    "static/css/main.aeaeffd6.css",
+    "static/js/main.c2597572.js"
   ]
 }
