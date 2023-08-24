@@ -5,6 +5,8 @@
   align-items: stretch;
   width: 100vw;
   height: 100vh;
+  background-color: var(--color-bg);
+  color: var(--text-color-one);
   box-sizing: border-box;
   margin: 0;
   padding: 0;

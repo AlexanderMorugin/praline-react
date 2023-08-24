@@ -1,9 +1,9 @@
-import styles from "../styles.module.css";
+import styles from "./delivery-page.module.css";
 
 export const DeliveryPage = () => {
   return (
-    <main className={styles.main}>
+    <section className={styles.section}>
       <h1>Delivery Page</h1>
-    </main>
+    </section>
   );
 };

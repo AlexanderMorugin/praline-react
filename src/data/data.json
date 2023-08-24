@@ -1,0 +1,31 @@
+{ "cakes": [
+  {
+    "id": "1",
+    "url": "https://pralinecake.ru/images/docs/napoleon_tort-xxl-2.jpg",   
+    "title": "Наполеон",
+    "description": "Торт Наполеон приготовленный из хрустящего слоеного теста и мягкого сливочного крема",
+    "price": 300
+  },
+  {
+    "id": "2",
+    "url": "https://pralinecake.ru/images/docs/chocolate_tort-xxl-2.jpg",    
+    "title": "Тирамису",
+    "description": "Торт Наполеон приготовленный из хрустящего слоеного теста и мягкого сливочного крема",
+    "price": 400
+  },
+  {
+    "id": "3",
+    "url": "https://pralinecake.ru/images/docs/kiev_tort-xxl-2.jpg",   
+    "title": "Чизкейк",
+    "description": "Торт Наполеон приготовленный из хрустящего слоеного теста и мягкого сливочного крема",
+    "price": 500
+  },
+  {
+    "id": "4",
+    "url": "https://pralinecake.ru/images/docs/honey_tort-xxl-2.jpg",   
+    "title": "Сникерс",
+    "description": "Торт Наполеон приготовленный из хрустящего слоеного теста и мягкого сливочного крема",
+    "price": 600
+  }
+]}
+

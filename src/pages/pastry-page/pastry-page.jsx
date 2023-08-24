@@ -1,9 +1,9 @@
-import styles from "../styles.module.css";
+import styles from "./pastry-page.module.css";
 
 export const PastryPage = () => {
   return (
-    <main className={styles.main}>
+    <section className={styles.section}>
       <h1>Pastry Page</h1>
-    </main>
+    </section>
   );
 };

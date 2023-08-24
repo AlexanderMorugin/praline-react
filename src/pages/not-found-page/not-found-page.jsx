@@ -1,9 +1,9 @@
-import styles from "../styles.module.css";
+import styles from "./not-found-page.module.css";
 
 export const NotFoundPage = () => {
   return (
-    <main className={styles.main}>
+    <section className={styles.section}>
       <h1>Not Found Page</h1>
-    </main>
+    </section>
   );
 };

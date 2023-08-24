@@ -1,9 +1,9 @@
-import styles from "../styles.module.css";
+import styles from "./contact-page.module.css";
 
 export const ContactPage = () => {
   return (
-    <main className={styles.main}>
+    <section className={styles.section}>
       <h1>Contact Page</h1>
-    </main>
+    </section>
   );
 };

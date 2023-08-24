@@ -1,0 +1,26 @@
+.main {
+  width: 100%;
+  max-width: 1440px;
+  box-sizing: border-box;
+  /* background-color: var(--color-bg); */
+  margin: 0 auto;
+  padding: 20px 100px;
+}
+
+@media screen and (max-width: 1280px) {
+  .main {
+    padding: 12px 40px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .main {
+    padding: 12px 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    padding: 12px;
+  }
+}
